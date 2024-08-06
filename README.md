@@ -1,8 +1,8 @@
 ## Hi, I am Amit 👋 
 
-<h3 align="center">A passionate backend software engineer</h3>
+<h3 align="center">A passionate software engineer</h3>
 <p align="center">
-    I'm a <b>backend software engineer</b>, <b>father</b>, <b>husband</b>, and a <b>lifelong learner</b> from India but living in <b>Singapore</b>. I have a passion for tech and like to use code to serve my purpose in this world. 
+    I'm a <b> software engineer</b>, <b>father</b>, <b>husband</b>, and a <b>lifelong learner</b> from India but living in <b>Singapore</b>. I have a passion for tech and like to use code to serve my purpose in this world. 
 </p>
 
 - 💬 Pronouns: **He/His**
